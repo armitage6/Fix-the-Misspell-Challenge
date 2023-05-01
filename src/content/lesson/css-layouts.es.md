@@ -64,7 +64,7 @@ Todas las cajas tienen dos atributos que definen su tamaño: `width` (ancho) y `
 
 ## Propiedad: Position
 
-El navegador es el responsable de asignar posiciones a todos los elementos de una página. Pero, como ya sabemos, las posiciones que poseen los elementos son bastante limitadas y hacen que los documentos se vean feos y anticuados.
+El navegador es el responsable de asignar posiciones a todos los elementos de una página. Sin embargo, como ya sabemos, las posiciones que poseen los elementos son bastante limitadas y hacen que los documentos se vean feos y anticuados.
 
 Para que un sitio web se vea como los sitios web de la actualidad, tenemos que rediseñar todo el posicionamiento de la página. Esto se logra utilizando la propiedad `position` y `display` (que veremos más adelante) para poder replicar la diagramación que se le ocurra al más ávido diseñador.
 
